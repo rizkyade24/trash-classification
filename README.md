@@ -25,10 +25,10 @@ Before running the code, make sure you have the following libraries installed:
 - Wandb
 
 You can install all the required dependencies using the requirements.txt file:
-
+```python
 pip install -r requirements.txt
 
-## Dataset
+# Dataset
 The model uses the TrashNet dataset available on the Hugging Face hub.
 
 To load the dataset, the following code is used:
