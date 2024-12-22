@@ -1,6 +1,6 @@
 # Trash Classification Model
 <br>
-Project Overview
+### Project Overview<br>
 This project is a trash classification model that uses a simple Convolutional Neural Network (CNN) for classifying images of trash into six categories:
 
 - Cardboard
