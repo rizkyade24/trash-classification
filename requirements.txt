@@ -1,8 +1,0 @@
-torch
-torchvision
-pillow
-numpy
-wandb
-pytest
-pytest-cov
-flake8
