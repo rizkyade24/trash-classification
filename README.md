@@ -36,6 +36,7 @@ Before running the code, make sure you have the following libraries installed:
 - Wandb
 
 You can install all the required dependencies using the requirements.txt file:
+
 ```bash
 pip install -r requirements.txt
 
