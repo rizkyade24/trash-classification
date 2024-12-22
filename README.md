@@ -37,10 +37,9 @@ Before running the code, make sure you have the following libraries installed:
 
 You can install all the required dependencies using the requirements.txt file:
 
-```bash
 pip install -r requirements.txt
 
-## Dataset
+## Project Overview
 The model uses the TrashNet dataset available on the Hugging Face hub.
 
 To load the dataset, the following code is used:
