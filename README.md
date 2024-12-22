@@ -1,5 +1,3 @@
-This repository contains a machine learning model for classifying trash images into categories such as cardboard, glass, metal, paper, plastic, and trash. The model is built using **PyTorch**, and the dataset is the **TrashNet** dataset.
-
 ## Project Overview
 
 This project is a **trash classification model** that uses a simple **Convolutional Neural Network (CNN)** for classifying images of trash into six categories:
